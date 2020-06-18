@@ -16,12 +16,18 @@ __INTRODUCTION TO DATA__ Learn the basic concepts of data analysis and descripti
 
 __SQL FOR DATA ANALYSIS__ Learn how to write SQL to query a single table and query multiple tables. Learn how to ask a question that requires data from multiple places, join the data together, and answer the question.
 
-* __Project 3__```SQL Project```
+* __Project 3__ ```SQL Project```
 > In this project, you will use a digital music store database to help the company see how they might optimize their business practices. 
 
 __DATA VISUALIZATION__ Learn how to select the most appropriate data visualization for an analysis. Learn how to evaluate the effectiveness of a data visualization and build interactive and engaging Tableau dashboards.
 
-* __Project 4__```Data Visualization```
+* __Project 4__ ```Data Visualization```
 > In this project, you'll build interactive dashboards with Tableau and use them to discover and communicate insights from data. 
 
+
+## Instructors
+* __Josh Bernhard__ - Josh has been sharing his passion for data for nearly a decade at all levels of university, and as Lead Data Science Instructor at Galvanize. He's used data science for work ranging from cancer research to process automation.
+* __Dana Sheahan__ - Dana is an electrical engineer with a Masters in Computer Science from Georgia Tech. Her work experience includes software development for embedded systems in the Automotive Group at Motorola, where she was awarded a patent for an onboard operating system.
+* __Derek Steer__ - Derek is the CEO of Mode Analytics. He developed an analytical foundation at Facebook and Yammer and is passionate about sharing it with future analysts. He authored SQL School and is a mentor at Insight Data Science.
+* __Mat Leonard__ - Mat is a former physicist, research neuroscientist, and data scientist. He did his PhD and Postdoctoral Fellowship at the University of California, Berkeley.
 
