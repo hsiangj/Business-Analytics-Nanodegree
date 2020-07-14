@@ -6,7 +6,7 @@ Certificate of completion can be located [here](https://confirm.udacity.com/M79J
 ## Program Curriculum
 __WELCOME TO THE NANODEGREE PROGRAM__ Meet the instructors and learn the structure of the program. 
 
-* __Project 1__: Interpret a Data Visualization
+* __Project 1__: [Interpret a Data Visualization](https://github.com/hsiangj/Business-Analytics-Nanodegree/blob/master/Interpret%20a%20Data%20Visualization.pdf)
 > In this project, you'll explore an interactive data dashboard to uncover insights, and write a short report explaining each insight. 
 
 __INTRODUCTION TO DATA__ Learn the basic concepts of data analysis and descriptive statistics. Learn how to manipulate, analyze and visualize data in Excel. Learn about business metrics across a wide range of business areas (marketing, sales, growth and finance). Finally, learn about forecasting sales and financial metrics.
